@@ -4,5 +4,13 @@ class ProjectsController < ApplicationController
 		redirect_to test_path
 	end
 
+	def hvac
+		
+	end
+
+	def framing
+		
+	end
+
 
 end
